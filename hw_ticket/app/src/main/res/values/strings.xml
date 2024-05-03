@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">ch6-3</string>
-    <string name="male">男生</string>
-    <string name="female">女生</string>
-    <string name="regularticket">全票\n500</string>
-    <string name="childticket">兒童票\n250</string>
-    <string name="studentticket">學生票\n400</string>
-    <string name="labgender">性別</string>
-    <string name="labticket">票種</string>
-    <string name="labSheetsPurchased">購買張數</string>
-    <string name="submit">確定</string>
+    <string name="app_name">ticket</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="regularticket">regular\n500</string>
+    <string name="childticket">child\n250</string>
+    <string name="studentticket">student\n400</string>
+    <string name="labgender">gender</string>
+    <string name="labticket">lab</string>
+    <string name="labSheetsPurchased">labsheets</string>
+    <string name="submit">submit</string>
 </resources>
