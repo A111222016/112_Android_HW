@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">foodOrder</string>
+    <string name="hunburger">漢堡</string>
+    <string name="Chips">薯條</string>
+    <string name="corn_soup">玉米濃湯</string>
+    <string name="cola">可樂</string>
+    <string name="coffee">咖啡</string>
+</resources>
